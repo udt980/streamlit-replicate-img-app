@@ -1,21 +1,13 @@
 # ✨ Image Generation App ✨
 
-[![Streamlit Replicate Image App](https://github.com/tonykipkemboi/streamlit-replicate-img-app/actions/workflows/python-app.yml/badge.svg)](https://github.com/tonykipkemboi/streamlit-replicate-img-app/actions/workflows/python-app.yml)
+[![Streamlit Replicate Image App][https://github.com/udt980/streamlit-replicate-img-app]
 
-_Image Generator App: where art meets algorithms and dreams meet pixels!_ 🚀
 
-![Astronaut on a unicorn](./gallery/astro_on_unicorn.png)
 
 ## Overview
 
 Powered by cutting-edge AI models running on [Replicate](https://replicate.com/about) and wrapped in a Streamlit interface, this app lets you transform plain text prompts into mesmerizing visual masterpieces.
 
-## Technical Features
-
-- **Neural Model**: Leverages the power of the replicate.run model for image generation, providing detailed and accurate depictions.
-- **Streamlit Framework**: Built atop the versatile Streamlit library, ensuring a smooth and responsive UI/UX.
-- **Dynamic Customization**: You can peek "under the hood", tune hyperparameters like guidance_scale, prompt_strength, and more for fine-grained control.
-- **Gallery**: A curated gallery for inspiration, showcasing the prowess of the underlying model.
 
 ## Getting Started
 
