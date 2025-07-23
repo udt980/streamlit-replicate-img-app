@@ -1,6 +1,6 @@
 # ✨ Image Generation App ✨
 
-[![Streamlit Replicate Image App][https://github.com/udt980/streamlit-replicate-img-app]
+
 
 
 
